@@ -1,0 +1,5 @@
+-- database: c:\Users\rakes\langchain\database.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT order_status FROM orders WHERE order_id = 23599045;
